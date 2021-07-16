@@ -1,6 +1,6 @@
 # My-Django-Blog-App
 
-This is a blog app developed in Python-Django. In this blog-app user can register, login and can posts blogs with their titles. This app is deployed on AWS and heroku.
+This is a server-client model based blogging web-app, developed in Python-Django. In this blog-app user can register, login and can posts blogs with their titles, and user also can edit and delete their posts. This app is deployed on AWS and heroku.
 
 ### app-link : http://mydjangobloggingapp.herokuapp.com/
 
